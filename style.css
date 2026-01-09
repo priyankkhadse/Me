@@ -4,6 +4,7 @@
   box-sizing: border-box;
  
 }
+
 .container {
   width: 100%;
   height: auto;
@@ -33,6 +34,7 @@
   font-size: 4rem;
 
 }
+ 
 .intro {
   display: flex;
   justify-content: center;
@@ -80,7 +82,8 @@ a {
   text-decoration: none;
 }
 
-@media (max-width: 700px) {
+
+@media (max-width: 700px ) {
   .container {
   width: 100%;
   height: auto;
@@ -156,10 +159,11 @@ a {
   color: antiquewhite;
   text-decoration: none;
 }
-  .parent img {
+.parent img {
   height: 100px; width: 100px;
 }
 
+}
 
 @media (min-width: 701px) and ( max-width: 1250px ) {
   .container {
@@ -244,5 +248,4 @@ a {
 }
 
 
-}
 

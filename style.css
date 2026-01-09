@@ -156,5 +156,9 @@ a {
   color: antiquewhite;
   text-decoration: none;
 }
+  .parent img {
+  height: 100px; width: 100px;
+}
+
 
 }
